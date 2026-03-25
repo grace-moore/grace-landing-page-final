@@ -113,7 +113,6 @@ a:focus-visible {
   font-weight: 500;
   color: var(--color-text);
   text-decoration: none;
-  transition: color 0.15s ease;
 }
 
 .nav-links a:hover,
@@ -381,7 +380,6 @@ h2 {
   font-weight: 500;
   color: var(--color-accent);
   text-decoration: none;
-  transition: background-color 0.15s ease, color 0.15s ease;
 }
 
 .contact-badge:hover,
